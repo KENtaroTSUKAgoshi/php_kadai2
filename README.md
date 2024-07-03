@@ -9,7 +9,7 @@ PHP 登録画面処理内容確認
 
 ## ③DEMO
 
-(https://khakialpaca97.sakura.ne.jp/php02/index.php)
+([https://khakialpaca97.sakura.ne.jp/php02/index.php]
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
